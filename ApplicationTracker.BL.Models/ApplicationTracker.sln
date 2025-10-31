@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationTracker.BL.Models", "ApplicationTracker.BL.Models.csproj", "{608B42BC-ACB4-41C5-9AD3-C58E3A3CA949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationTracker.PL", "..\ApplicationTracker.PL\ApplicationTracker.PL.csproj", "{D2A2D56A-86B0-4211-9D61-81C3707AD913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{608B42BC-ACB4-41C5-9AD3-C58E3A3CA949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{608B42BC-ACB4-41C5-9AD3-C58E3A3CA949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{608B42BC-ACB4-41C5-9AD3-C58E3A3CA949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A2D56A-86B0-4211-9D61-81C3707AD913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A2D56A-86B0-4211-9D61-81C3707AD913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A2D56A-86B0-4211-9D61-81C3707AD913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A2D56A-86B0-4211-9D61-81C3707AD913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
